@@ -1,0 +1,591 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    }    
+    /* ---- first section---- */
+.header{
+    height: 600px;
+    width: 100%;
+    background-image: url(jay.png);
+    color: #fff;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    color: white;
+    text-decoration: none;
+    padding-top: 2%;
+    
+}
+.home{
+    color: #fff;
+    word-spacing: 5em;
+    color: #fff;
+    text-decoration: none;
+    
+    justify-content: left;
+}
+.menu{
+    color: #fff;
+    word-spacing: 5em;
+    color: #fff;
+    text-decoration: none;
+    
+}
+.line{
+    height: 0.9vh;
+    width: 100%;
+}
+.john{
+    color: #fff;
+    margin-left: 41%;
+    
+}
+.resturant{
+    font-size: 9px;
+    word-spacing: 0.9em;
+    margin-left: 7%;
+    font-stretch: 1%;
+    letter-spacing: 0.9em;
+    
+    
+}
+.hungry{
+    font-family: monospace;
+    font-size: 30px;
+    margin-left: -6%;
+}
+.yellow-line{
+    width: 6%;
+    height: 3px;
+    background-color: yellow;
+    margin-left: 11%;
+}
+.visit{
+    margin-left: 4%;
+    color: white;
+    margin-left: -4.5%;
+   
+
+}
+.one{
+    border: 1px solid white;
+    padding: 10px 30px;
+    background-color:yellow;
+    margin-right:1%;
+}
+.ONU{
+    border: 1px solid white;
+    padding: 10px 30px;
+    background-color:100%;
+    margin-left: 3%;
+}
+.done{
+    transform: rotate(90deg);
+    margin-top:5%;
+    margin-right: 88%;
+    font-size: 7px;
+    /* letter-spacing: 2px; */
+}
+.chizzy{
+    align-items: center;
+    border-radius: 40%;
+    margin-left: 1100px;
+    margin-top: -60px;
+}
+.please{
+    margin-left: 570px;
+}
+/* --- section 2----- */
+.headers{
+    height: 100px;
+    width: 100%; 
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+    justify-content: center;
+     position: relative; 
+
+}
+.about{
+    text-align: center;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 10px;
+    margin-top: 10%;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 700PX;
+    padding-top: 10px;
+       
+    
+    
+    
+
+}
+.line2{
+    width: 5%;
+    height: 3px;
+    background-color: yellow;
+    
+    margin-left: 210px;
+
+}    
+.qed{
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-family: sans-serif;
+   
+    
+}
+.ella{
+    border:8px yellow solid;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    top: 200px;
+    right: 90px;
+}
+ .pic{
+     padding-right: 100px;
+     margin-left:50px ;
+ }
+
+/* -- section 3 --- */ 
+.team{
+    width: 100%;
+    height: 600px;
+    background-image: url(specialty.png);
+    margin-top: 800px;
+    margin-left:- 400px;
+    position: relative;
+    padding-top: 10px;
+}
+.boy{
+    margin-top: 70px;
+    padding: 50px;
+    margin-right:55px ;
+}
+.girl{
+    display: flex;
+    
+}
+    
+
+
+.our{
+    text-align: center;
+    color: #fff;
+    padding-top: 20px;
+       
+}
+.chef{
+    font-size: 10px;
+    text-align: center;
+    margin-top: 100px;
+    font-weight: bolder;
+    font-size: 13px;
+    color: white;
+
+
+}
+.lines{
+    width: 25px;
+    height: 3px;
+    background-color: yellow;
+    
+    margin-left: 230px;
+
+}
+.ken{
+    font-weight: 100px;
+}
+.boxes{
+    border:8px yellow solid;
+    width: 120px;
+    height: 120px;
+    
+    position: absolute;
+    top: 230px;
+    left:4px;
+}
+.concilia{
+  padding-left: 20px;
+} 
+
+ /* ---- section 4 ------ */
+
+ .select{
+     width: 100%;
+     height: 600px;
+     display: flex;
+     flex-wrap: wrap;
+     position: relative;
+
+ }
+ .main{
+     margin-top: 200px;
+
+ }
+ .merry{
+     text-align: center;
+     
+
+ }
+ .nwaiwu{
+       margin-left: 400px;
+       margin-bottom: -220px;  
+ }
+ .chibyke{
+     margin-left:200px ;
+     margin-top:-450px;
+ }
+ 
+
+ .book{
+      margin-left:110px;
+
+ }
+ .book h1{
+     text-align: center;
+    
+ }
+ .box-xx{
+    width: 30px;
+    height: 3px;
+    background-color: yellow;
+    margin-left: 180px;
+ }
+ .name-hold{
+    margin: 3px;
+    padding: 3px;
+    
+    
+ }
+input{
+    height: 35px;
+    width: 180px;
+    border: ghostwhite;
+}
+select{
+    height: 40px;
+    width: 198px;
+    border: ghostwhite;
+}
+::placeholder{
+    padding-left: 2px; 
+}
+.bueze{
+    margin-left:-100px;
+    
+}
+.mee{
+    margin-left: 5px;
+}
+.uzo{
+    margin-left: 5px;
+}
+.saint{
+    margin-left:-100px;
+}
+.book-now{
+    margin-left:-1px;
+    border: 1px solid white;
+    padding: 10px 5px;
+    background-color:yellow;
+    color: white;
+    text-align:center;
+    box-sizing: content-box;
+    
+    
+}
+select{
+    padding-left: 15px;
+}
+input{
+    padding-left: 15px;
+
+}
+.ending{
+    border:8px yellow solid;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    top: 250px;
+    right:30px;
+
+}
+input{
+    background-color: ghostwhite;
+}
+select{
+    background-color: ghostwhite;
+}
+/* --- section 5 --- */
+.slot{
+    width: 100%;
+    height: 700px;
+    margin-top: 100px;
+    background-image: url(specialty.png);
+    color: #fff;
+   
+    
+}
+.spek{
+    
+    
+    margin-left: 530px;
+    padding-top: 50px;
+    letter-spacing: 0.5em;
+    
+}
+.punk{ 
+    position: relative;
+    margin-right: -10px;
+    padding-left: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+    
+.another{ 
+    position: absolute;
+    border:8px yellow solid;
+    width: 120px;
+    height: 120px;
+    top: 245px;
+    left:0px;
+
+}
+
+.uche{
+   margin-top: -390px;
+   margin-left: 600px;
+    
+}
+.oly h1{
+    font-weight: bold;
+    font-style: oblique;
+    text-align: center;
+    letter-spacing: inherit;
+}
+.run h2{
+    font-size: medium;
+    font-weight: lighter;
+}
+.ike{
+    font-size: smaller;
+    letter-spacing: 0.2em;
+    color: ghostwhite;
+}
+.lineeer{
+    width: 25px;
+    height: 3px;
+    background-color: yellow;
+    margin-left: 310px;
+}
+.pop{
+    height: 2px;
+    width: 1%;
+    background-color: ghostwhite;
+
+    border-radius: 3px;
+}
+/* -- section 5-- */
+.nna{
+    width: 100%;
+    height: 500px;
+    padding-top: 50PX;
+}
+.baby{
+    text-align: center;
+}
+.lineee{
+    width: 34px;
+    height: 3px;
+    background-color: yellow;
+     margin-left: 605px; 
+
+
+}
+.golibe{
+    text-align: center;
+}
+.soupe{
+    flex-wrap: wrap;
+    display: flex;
+    
+}
+.soupe{
+
+     margin-left:400px ;  
+    
+}
+.kee{
+    border-right: 0.5px solid rgb(158, 153, 153);
+    margin-right: 20px;
+    padding-right: 20px;
+     height: 20px;  
+     padding-top: 6px;
+}
+.drinks{
+    border: none;
+}
+
+.quae{
+   padding-left: 40px; 
+}
+.numbered{
+    padding-left: 20px; 
+}
+.abt{
+    padding-left: 40px;
+
+}
+.table{
+    
+    justify-content: center;
+    display: flex;
+}
+/* -- section 6 -- */
+.chim{
+    background-image: url(design.png);
+    color: white;
+    height: 650px;
+    width: 100%;
+}
+.nope{
+    color: white;
+    padding-top: 30px;
+    text-align: center;
+    word-spacing: 00.2em;
+    letter-spacing: 00.2em;
+}
+.yap{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    
+    
+    
+}
+.lifes{
+    justify-content: center;
+    display: flex;
+}
+.yet{
+    width: 475px;
+    height: 475px;
+
+}
+.wendy{
+    display: flex;
+    flex-direction: row;
+}
+.oioi{
+    Width :80px;
+    Height :475px;
+    
+    
+}
+/* --section 7-- */
+.vin{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+}
+.singe{
+    width: 100vw;
+
+}
+/* -- section 8 -- */
+.olden{
+    margin-top: 160px;
+    width: 100%;
+    height: 10px;
+}
+.nzube{
+    text-align: center;
+}
+.linedd{
+    width: 34px;
+    height: 3px;
+    background-color: yellow;
+     margin-left: 585px; 
+}
+.onda{
+    display: flex;
+    justify-content: center;
+
+}
+.gooood input{
+    height: 40px;
+    width: 230px;
+    left: 0px;
+    top: 0px;
+    border-radius: 5px;
+    border: ghostwhite;
+    border-radius: 10px;
+ 
+}
+.megg input[type="text"], .megg textarea{
+    padding: 22px;
+    width: 95%;
+    background-color: ghostwhite;
+    border: ghostwhite;
+    border-radius: 10px;
+    
+}
+.lastt{
+    display: flex;
+    justify-content: center;
+
+}
+.lastt .chant {
+    
+    
+    border: 1px yellow solid;
+    
+    background-color: yellow;
+    padding: 10px 120px;
+    
+
+    
+    
+    /* display: inline; */
+}
+.buchi{
+    font-size: 11px;
+    padding-top: 8px;
+    
+}
+/* -- section 9 -- */
+map{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+/* -- section 10 -- */
+.footer{
+    width: 100%;
+    height: 60px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
